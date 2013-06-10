@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "test"
+date:   2013-06-11 12:00:00 
+categories: test 
+---
+
+Test.
